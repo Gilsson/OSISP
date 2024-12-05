@@ -1,0 +1,6 @@
+﻿  hook.cpp
+C:\Users\anton\source\repos\OSISP6\Hook\hook.cpp(57,10): warning C4101: 'charCode': unreferenced local variable
+  (compiling source file '/hook.cpp')
+  
+     Creating library C:\Users\anton\source\repos\OSISP6\x64\Debug\Hook.lib and object C:\Users\anton\source\repos\OSISP6\x64\Debug\Hook.exp
+  Hook.vcxproj -> C:\Users\anton\source\repos\OSISP6\x64\Debug\Hook.dll
