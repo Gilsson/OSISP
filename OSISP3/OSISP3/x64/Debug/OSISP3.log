@@ -1,0 +1,8 @@
+﻿  OSISP3.cpp
+C:\Users\anton\source\repos\OSISP3\OSISP3\OSISP3.cpp(91,84): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\anton\source\repos\OSISP3\OSISP3\OSISP3.cpp(108,86): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\anton\source\repos\OSISP3\OSISP3\OSISP3.cpp(130,83): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\anton\source\repos\OSISP3\OSISP3\OSISP3.cpp(317,9): warning C4101: 'overlappedEvents': unreferenced local variable
+C:\Users\anton\source\repos\OSISP3\OSISP3\OSISP3.cpp(318,13): warning C4101: 'overlapped': unreferenced local variable
+C:\Users\anton\source\repos\OSISP3\OSISP3\OSISP3.cpp(332,11): warning C4101: 'bytesWritten': unreferenced local variable
+  OSISP3.vcxproj -> C:\Users\anton\source\repos\OSISP3\x64\Debug\OSISP3.exe

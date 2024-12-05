@@ -1,0 +1,3 @@
+﻿  OSISP3Client.cpp
+C:\Users\anton\source\repos\OSISP3\OSISP3Client\OSISP3Client.cpp(134,83): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  OSISP3Client.vcxproj -> C:\Users\anton\source\repos\OSISP3\x64\Debug\OSISP3Client.exe
