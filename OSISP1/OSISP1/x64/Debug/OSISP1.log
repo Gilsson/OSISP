@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\anton\source\repos\OSISP1\OSISP1\main.cpp(89,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anton\source\repos\OSISP1\OSISP1\main.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anton\source\repos\OSISP1\OSISP1\main.cpp(167,23): warning C4018: '<': signed/unsigned mismatch
+  OSISP1.vcxproj -> C:\Users\anton\source\repos\OSISP1\x64\Debug\OSISP1.exe
