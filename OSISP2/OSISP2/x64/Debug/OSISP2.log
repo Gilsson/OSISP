@@ -1,0 +1,3 @@
+﻿  OSISP2.cpp
+C:\Users\anton\source\repos\OSISP2\OSISP2\OSISP2.cpp(124,41): warning C4244: 'argument': conversion from 'std::streamsize' to 'int', possible loss of data
+  OSISP2.vcxproj -> C:\Users\anton\source\repos\OSISP2\x64\Debug\OSISP2.exe
